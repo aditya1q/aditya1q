@@ -46,11 +46,8 @@
   <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="chartjs" width="40" height="40"/>
   </a>
-   <a href="https://recharts.org/en-US/api" target="_blank" rel="noreferrer">
-    <img src="https://recharts.org/logo-og.png" alt="recharts" width="40" height="40"/>
-  </a>
   <a href="https://www.tradingview.com/chart/" target="_blank" rel="noreferrer">
-    <img src="https://tradingview.github.io/brand-assets/brand-resources/SVG/TradingView.svg" alt="advanced chart" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/7644688?s=48&v=4" alt="advanced chart" width="40" height="40"/>
   </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img src="https://v4.mui.com/static/logo.png" alt="mui" width="40" height="40"/>

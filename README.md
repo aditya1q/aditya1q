@@ -48,9 +48,6 @@
    <a href="https://recharts.org/en-US/api" target="_blank" rel="noreferrer">
     <img src="https://recharts.org/logo-og.png" alt="recharts" width="40" height="40"/>
   </a>
-<a href="https://tradingview.github.io/lightweight-charts/" target="_blank" rel="noreferrer">
-    <img src="https://tradingview.github.io/lightweight-charts/logo.svg" alt="lightweight chart" width="40" height="40"/>
-  </a>
   <a href="https://www.tradingview.com/chart/" target="_blank" rel="noreferrer">
     <img src="https://tradingview.github.io/brand-assets/brand-resources/SVG/TradingView.svg" alt="advanced chart" width="40" height="40"/>
   </a>

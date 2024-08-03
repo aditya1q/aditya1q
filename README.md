@@ -46,7 +46,7 @@
   <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="chartjs" width="40" height="40"/>
   </a>
-  <a href="https://www.tradingview.com/chart/" target="_blank" rel="noreferrer">
+  <a href="https://in.tradingview.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/7644688?s=48&v=4" alt="advanced chart" width="40" height="40"/>
   </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer">

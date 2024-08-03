@@ -38,7 +38,29 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/pmndrs/zustand/master/logo.png" alt="zustand" width="40" height="40"/>
+  </a>
+  <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="chartjs" width="40" height="40"/>
+  </a>
+  <a href="https://recharts.org/" target="_blank" rel="noreferrer">
+    <img src="https://recharts.org/logo-og.png" alt="recharts" width="40" height="40"/>
+  </a>
+  <a href="https://www.tradingview.com/" target="_blank" rel="noreferrer">
+    <img src="https://s3.tradingview.com/branding/static/tradingview-logo-square.png" alt="tradingview" width="40" height="40"/>
+  </a>
+  <a href="https://tradingview.github.io/lightweight-charts/" target="_blank" rel="noreferrer">
+    <img src="https://tradingview.github.io/lightweight-charts/logo.svg" alt="lightweight chart" width="40" height="40"/>
+  </a>
+  <a href="https://www.tradingview.com/chart/" target="_blank" rel="noreferrer">
+    <img src="https://tradingview.github.io/brand-assets/brand-resources/SVG/TradingView.svg" alt="advanced chart" width="40" height="40"/>
+  </a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+    <img src="https://v4.mui.com/static/logo.png" alt="mui" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 <!---

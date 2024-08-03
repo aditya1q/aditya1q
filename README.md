@@ -32,22 +32,23 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
+    <a href="https://sass-lang.com/documentation" target="_blank" rel="noreferrer">
+    <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="40" height="40"/>
+  </a>
+
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
-  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAe1BMVEVHcEwdGhYdGhcODAuabFoAAAAREg8PDQrEfGgiHhrSiXUGBQSLXEokIh+wc18dGBR8XlJbVktURTtdWlFEPjhCPDY5NS89OTMtKiVJQTpxYlczMCt1ZlokIBxPRj9hVUtZT0UTExFoXFJ9UUCSg3N/dWqeYEbOVyqlPB4jT27bAAAAFHRSTlMAqIox/gk+cvrp+lj+zPoe4Oa0gtfDlpAAAAGJSURBVCiRlZLXcuMwDEXVbBU7tpMFUdglueT/v3BJKbGc2bws+KABz6DwXhXFf8ZHiPVLWu9eEsEZ37b0oqXK3/O+PhcVdcORn+xPYKa2evcxChk3d12zwXdz6tBEUeIViBi8H7e26IehQyUCIOABwPBhg3HojgogVQIQKQXUPmFJ3T3dKA/KhNvNenRm/w17mhHACwhdb1prO7Hgbr88r/JEsIS56knfQ6bmOlwyXQmNooLV8fEIqVbFrjslmQ5rlTJA6VpP0Vqtg+uGS15nLUz1OGlrbQhutNqZj9z1LTNsGgIzWTfyOI5sJ7e+ps89Q3M6GoraJTR6rSPjBudT0xgiO8lnuFptDeIi0tKWmqOA4mjDY07LeofmnGH7XAjIxekz2MywX/TZmfUtWXRiTs44RjRf6pYqG5VYmk1o0lGI7kvaHSe6hleSDFAK3VP4AyefIDsp2RkhdJtlRetQKBtJiiDNe2Xp7+sZ0zxIB4H7ffEzKueY2TC7/lD8G3VblWXZ1r+gX+MvRD0sQ1ZcHdsAAAAASUVORK5CYII=" alt="zustand" width="40" height="40"/>
+    <a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/resources/zustand.svg" alt="zustand" width="40" height="40"/>
   </a>
   <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="chartjs" width="40" height="40"/>
   </a>
-  <a href="https://recharts.org/" target="_blank" rel="noreferrer">
+   <a href="https://recharts.org/en-US/api" target="_blank" rel="noreferrer">
     <img src="https://recharts.org/logo-og.png" alt="recharts" width="40" height="40"/>
   </a>
-  <a href="https://www.tradingview.com/" target="_blank" rel="noreferrer">
-    <img src="https://s3.tradingview.com/branding/static/tradingview-logo-square.png" alt="tradingview" width="40" height="40"/>
-  </a>
-  <a href="https://tradingview.github.io/lightweight-charts/" target="_blank" rel="noreferrer">
+<a href="https://tradingview.github.io/lightweight-charts/" target="_blank" rel="noreferrer">
     <img src="https://tradingview.github.io/lightweight-charts/logo.svg" alt="lightweight chart" width="40" height="40"/>
   </a>
   <a href="https://www.tradingview.com/chart/" target="_blank" rel="noreferrer">

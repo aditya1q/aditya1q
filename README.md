@@ -33,7 +33,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
     <a href="https://sass-lang.com/documentation" target="_blank" rel="noreferrer">
-  <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="40" height="40"/>
+  <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="sass" width="40" height="40"/>
     </a>
 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">

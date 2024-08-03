@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @adityatiwari
 - 👀 I’m interested in web development / Software Development.
-- 🌱 I’m currently learning advanced coding techniques and algorithms through my 100 Days of Code challenge.
+- 🌱 I’m a frontend developer passionate about building responsive and dynamic web applications using React/Next.js and Tailwind CSS. My expertise lies in working on trading platforms and 
+      applications that provide real-time information. I have successfully completed more than three major projects in this domain.
 - 💞️ I’m looking to collaborate on projects related to web development 
 - 📫 How to reach me : 
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I recently completed a React JS course through Infosys Springboard and built a web app called Global Insight to find information about any country.
+- ⚡ Fun fact: I've implemented TradingView Lightweight Chart in projects. Now, I'm working with the TradingView Advanced Chart library, which I plan to implement in future projects.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -23,6 +24,10 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
+    <a href="https://socket.io/" target="_blank" rel="noreferrer">
+    <img src="https://socket.io/images/logo.svg" alt="socket.io" width="40" height="40"/>
+  </a>
+
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>

@@ -35,7 +35,9 @@
     <a href="https://sass-lang.com/documentation" target="_blank" rel="noreferrer">
   <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="sass" width="40" height="40"/>
     </a>
-
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>

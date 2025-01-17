@@ -49,8 +49,8 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
-    <a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/favicon.ico" alt="zustand" width="40" height="40"/>  </a>
+  <a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/favicon.ico" alt="zustand" width="40" height="40"/>  </a>
   <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="chartjs" width="40" height="40"/>
   </a>
@@ -59,6 +59,12 @@
   </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img src="https://v4.mui.com/static/logo.png" alt="mui" width="40" height="40"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/>
+  </a>
+  <a href="https://www.nativewind.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.nativewind.dev/img/logo.svg" alt="nativewind" width="40" height="40"/>
   </a>
 </p>
 

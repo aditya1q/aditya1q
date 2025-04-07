@@ -25,7 +25,7 @@
     <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="postman" width="40" height="40"/>
   </a>
     <a href="https://socket.io/" target="_blank" rel="noreferrer">
-    <img src="https://socket.io/images/logo.svg" alt="socket.io" width="40" height="40"/>
+    <img src="https://socket.io/images/logo-dark.svg" alt="socket.io" width="40" height="40"/>
   </a>
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">

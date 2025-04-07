@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="postman" width="40" height="40"/>
   </a>
     <a href="https://socket.io/" target="_blank" rel="noreferrer">
     <img src="https://socket.io/images/logo.svg" alt="socket.io" width="40" height="40"/>

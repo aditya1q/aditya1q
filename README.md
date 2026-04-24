@@ -1,76 +1,91 @@
-- 👋 Hi, I’m @adityatiwari
-- 👀 I’m interested in web development / Software Development.
-- 🌱 I’m a frontend developer, passionate about building responsive and dynamic web applications using React/Next.js and Tailwind CSS. My expertise lies in working on trading platforms and 
-      applications that provide real-time information. I have successfully completed more than three major projects in this domain.
-- 💞️ I’m looking to collaborate on projects related to web development.
-- 📫 How to reach me : 
-- 😄 Pronouns: he/him.
-- ⚡ Fun fact: I've implemented TradingView Lightweight Chart in projects. Now, I'm working with the TradingView Advanced Chart library, which I plan to implement in future projects.
+<!-- HEADER -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="postman" width="40" height="40"/>
-  </a>
-    <a href="https://socket.io/" target="_blank" rel="noreferrer">
-    <img src="https://socket.io/images/logo-dark.svg" alt="socket.io" width="40" height="40"/>
-  </a>
+<h1 align="center">Hi 👋, I'm Aditya Tiwari</h1>
+<h3 align="center">🚀 MERN Stack Developer | Frontend Specialist | Real-Time Web Apps</h3>
 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-    <a href="https://sass-lang.com/documentation" target="_blank" rel="noreferrer">
-  <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="sass" width="40" height="40"/>
-    </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/2918581?s=48&v=4" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/favicon.ico" alt="zustand" width="40" height="40"/>  </a>
-  <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="chartjs" width="40" height="40"/>
-  </a>
-  <a href="https://in.tradingview.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/7644688?s=48&v=4" alt="advanced chart" width="40" height="40"/>
-  </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img src="https://v4.mui.com/static/logo.png" alt="mui" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/>
-  </a>
-  <a href="https://www.nativewind.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.nativewind.dev/img/logo.svg" alt="nativewind" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Frontend+Engineer;Trading+Platform+Builder;Real-Time+Apps+Specialist&center=true&width=500&height=45">
 </p>
 
+---
 
+## 👨‍💻 About Me
 
-<!---
-PrinceNagarkoti/PrinceNagarkoti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 💼 MERN Stack Developer with a strong focus on frontend engineering
+* ⚛️ Experienced in building scalable apps using React & Next.js
+* 📊 Specialized in **trading platforms and real-time data applications**
+* 🔌 Hands-on with WebSockets (Socket.IO) for live systems
+* 📈 Implemented TradingView Lightweight Charts in production
+* 🚧 Currently working on **TradingView Advanced Chart integration**
+* 🎯 Focused on performance, clean UI, and user experience
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/favicon.ico" width="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+<img src="https://sass-lang.com/assets/img/logos/logo.svg" width="40"/>
+<img src="https://avatars.githubusercontent.com/u/2918581?s=48&v=4" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+
+<img src="https://socket.io/images/logo-dark.svg" width="40"/>
+<img src="https://www.chartjs.org/img/chartjs-logo.svg" width="40"/>
+<img src="https://avatars.githubusercontent.com/u/7644688?s=48&v=4" width="40"/>
+
+<img src="https://v4.mui.com/static/logo.png" width="40"/>
+<img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
+<img src="https://www.nativewind.dev/img/logo.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40"/>
+<img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" width="40"/>
+
+</p>
+
+---
+
+## 🧠 What I’m Working On
+
+* 🔄 TradingView Advanced Chart integration
+* ⚡ Optimizing real-time dashboards
+* 📱 Exploring cross-platform apps with React Native
+
+---
+
+## 🤝 Collaboration
+
+Open to working on:
+
+* MERN Stack Applications
+* Trading Platforms & Dashboards
+* Real-time systems using WebSockets
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [adityatiwari9410@email.com](mailto:adityatiwari9410@email.com)
+* 💼 LinkedIn: [(add link)](https://www.linkedin.com/in/aditya-tiwari-b9278b278/)
+* 🌐 Portfolio: [(add link)](https://my-devfolio-beta.vercel.app/)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building **real-time trading interfaces** and optimizing chart performance 📈
+
+---

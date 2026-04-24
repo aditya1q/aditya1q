@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <h1 align="center">Hi 👋, I'm Aditya Tiwari</h1>
-<h3 align="center">🚀 MERN Stack Developer | Frontend Specialist | Real-Time Web Apps</h3>
+<h3 align="center">🚀 MERN Stack Developer | Frontend Engineering | Real-Time Web Apps</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Frontend+Engineer;Trading+Platform+Builder;Real-Time+Apps+Specialist&center=true&width=500&height=45">
@@ -13,7 +13,7 @@
 
 * 💼 MERN Stack Developer with a strong focus on frontend engineering
 * ⚛️ Experienced in building scalable apps using React & Next.js
-* 📊 Specialized in **trading platforms and real-time data applications**
+* 📊 Experienced in **trading platforms and real-time data applications**
 * 🔌 Hands-on with WebSockets (Socket.IO) for live systems
 * 📈 Implemented TradingView Lightweight Charts in production
 * 🚧 Currently working on **TradingView Advanced Chart integration**
